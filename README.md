@@ -6,7 +6,7 @@ Hi there! I'm **Anik Das**, a passionate developer exploring the world of softwa
 
 ## 🚀 About Me
 
-- 🔭 I'm interested in **software development**, **web applications**, and **open-source projects**
+- 🔭 I'm interested in ** Artificial Intelligence Engineering**, ** Machine Learning and Generative AI**, and **open-source projects**
 - 🌱 I'm constantly learning new technologies and improving my skills
 - 💻 I love writing clean, efficient code and building meaningful projects
 - 🤝 Open to collaborations and contributions
@@ -30,7 +30,6 @@ Hi there! I'm **Anik Das**, a passionate developer exploring the world of softwa
 ## 🎯 Current Goals
 
 - [ ] Contribute to more open-source projects
-- [ ] Build full-stack applications
 - [ ] Improve system design and architecture skills
 - [ ] Learn advanced concepts in my preferred tech stack
 - [ ] Share knowledge through blogging and documentation
