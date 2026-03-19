@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact🚀 I’m currently working on<br>Building web projects using HTML, CSS, and JavaScript, and improving problem-solving skills in Java.<br><br>🤝 I’m looking to collaborate on<br>Open-source web development projects and beginner-friendly AI/ML ideas.<br><br>🧠 I’m looking for help with<br>Advanced Java concepts, system design basics, and real-world project architecture.<br><br>📚 I’m currently learning<br>Software engineering, DBMS, and exploring AI/ML fundamentals step by step.<br><br>💬 Ask me about<br>Frontend development, Java basics, and how to start freelancing as a beginner.<br><br>⚡ Fun fact<br>I turn late-night coding sessions into productive builds.
+## About Me
+
+I’m a developer who started with simple web pages and slowly got hooked on how things actually work behind the screen.
+
+Right now, I build projects using **HTML, CSS, and JavaScript**, while strengthening my problem-solving skills with **Java**.
+
+I don’t just follow tutorials — I break things, fix them, and understand why they work.
+
+Lately, I’ve been exploring **software engineering concepts, databases, and AI/ML fundamentals** to grow beyond frontend development.
+
+I’m also focused on **freelancing**, so I build projects that solve real problems — not just look good.
+
+If you enjoy building, learning, and figuring things out from scratch, we’ll get along.
 
 
 ## 🌐 Socials:
