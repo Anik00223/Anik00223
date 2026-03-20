@@ -27,28 +27,25 @@
 while (alive) { learn(); build(); repeat(); }
 ```
 
-- 🔭 Started with simple web pages — got obsessed with **how things actually work** behind the screen
-- 💡 I don't just follow steps — I **experiment, fail, debug, and understand deeply**
-- 📚 Currently exploring **Software Engineering**, **Databases** & **AI/ML fundamentals**
-- 🎯 I build things that are **useful, practical, and real** — not just visually good
-- 🤝 If you value **consistency, curiosity, and real growth** — we'll connect well
+<p align="center">
+I started with simple web pages and got curious about how things actually work behind the screen.<br><br>
+
+Now, I build using <b>HTML, CSS, JavaScript</b> and strengthen my logic with <b>Java</b>.<br><br>
+
+I don’t just follow steps — I experiment, fail, debug, and understand deeply.<br><br>
+
+Currently exploring <b>software engineering, databases, and AI/ML fundamentals</b> to grow beyond basics.<br><br>
+
+I focus on creating projects that are <b>useful, practical, and real</b> — not just visually good.<br><br>
+
+If you value consistency, curiosity, and real growth — we’ll connect well 🤝
+</p>
 
 ---
 
 ### ⚡ Tech Focus
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-**💻 Frontend Development &nbsp;|&nbsp; ☕ Java & Problem Solving &nbsp;|&nbsp; 🧠 Learning AI/ML**
+**💻 Frontend Development &nbsp;|&nbsp; ☕ Problem Solving &nbsp;|&nbsp; 🧠 Learning AI/ML**
 
 ---
 
