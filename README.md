@@ -46,11 +46,11 @@ If you value consistency, curiosity, and real growth — we’ll connect well �
 ### ⚡ Tech Focus
 
 <div align="center">
-Show Image
- 
-Show Image
- 
-Show Image
+<img src="https://img.shields.io/badge/Problem%20Solving-06b6d4?style=for-the-badge&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Learning%20AI%2FML-f59e0b?style=for-the-badge&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Web%20Development-7c3aed?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
