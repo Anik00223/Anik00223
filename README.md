@@ -63,18 +63,6 @@ while (alive) { learn(); build(); repeat(); }
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnikDas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=94a3b8&icon_color=06b6d4" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikDas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=a78bfa&text_color=94a3b8" height="165"/>
-
-</div>
-
----
-
 <div align="center">
 
 ✨ **Still learning. Still building. Still improving.**
