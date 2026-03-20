@@ -45,7 +45,13 @@ If you value consistency, curiosity, and real growth — we’ll connect well �
 
 ### ⚡ Tech Focus
 
-**💻 Frontend Development &nbsp;|&nbsp; ☕ Problem Solving &nbsp;|&nbsp; 🧠 Learning AI/ML**
+<div align="center">
+Show Image
+ 
+Show Image
+ 
+Show Image
+</div>
 
 ---
 
