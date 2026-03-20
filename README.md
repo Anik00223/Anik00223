@@ -1,16 +1,32 @@
-## About Me
+<h2 align="center">Hi 👋, I'm Anik Das</h2>
 
-I’m a developer who started with simple web pages and slowly got hooked on how things actually work behind the screen.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Curious+Developer;Building+Things+from+Scratch;Learning+Something+New+Everyday" alt="Typing SVG" />
+</p>
 
-Right now, I build projects using **HTML, CSS, and JavaScript**, while strengthening my problem-solving skills with **Java**.
+---
 
-I don’t just follow tutorials — I break things, fix them, and understand why they work.
+### 🌿 About Me
 
-Lately, I’ve been exploring **software engineering concepts, databases, and AI/ML fundamentals** to grow beyond frontend development.
+<p align="center">
+I started with simple web pages and got curious about how things actually work behind the screen.<br><br>
 
-I’m also focused on **freelancing**, so I build projects that solve real problems — not just look good.
+Right now, I build projects using <b>HTML, CSS, and JavaScript</b>, while improving my problem-solving skills with <b>Java</b>.<br><br>
 
-If you enjoy building, learning, and figuring things out from scratch, we’ll get along.
+I don’t just follow tutorials — I break things, fix them, and understand why they work.<br><br>
+
+Lately, I’ve been exploring <b>software engineering, databases, and AI/ML fundamentals</b> to grow beyond frontend development.<br><br>
+
+I focus on building projects that solve real problems, not just look good.<br><br>
+
+If you enjoy building, learning, and figuring things out from scratch, we’ll get along 🤝
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>Always learning. Always building.</i>
+</p>.
 
 
 ## 🌐 Socials:
