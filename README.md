@@ -28,7 +28,8 @@ while (alive) { learn(); build(); repeat(); }
 ```
 
 <p align="center">
-I started with simple web pages and got curious about how things actually work behind the screen.<br><br>
+
+  I started with simple web pages and got curious about how things actually work behind the screen.<br><br>
 
 Now, I build using <b>HTML, CSS, JavaScript</b> and strengthen my logic with <b>Java</b>.<br><br>
 
@@ -39,6 +40,7 @@ Currently exploring <b>software engineering, databases, and AI/ML fundamentals</
 I focus on creating projects that are <b>useful, practical, and real</b> — not just visually good.<br><br>
 
 If you value consistency, curiosity, and real growth — we’ll connect well 🤝
+
 </p>
 
 ---
