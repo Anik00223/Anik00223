@@ -9,8 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnikDas&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-10b981?style=flat-square)
 &nbsp;
 ![Location](https://img.shields.io/badge/📍-Silchar%2C%20Assam%20🇮🇳-06b6d4?style=flat-square)
