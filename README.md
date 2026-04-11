@@ -27,17 +27,17 @@ while (alive) { learn(); build(); repeat(); }
 
 <p align="center">
 
-  I started with simple web pages and got curious about how things actually work behind the screen.<br><br>
+  I started by building simple web pages, but soon I got curious about what really happens behind the scenes.
 
-Now, I build using <b>HTML, CSS, JavaScript</b> and strengthen my logic with <b>Java</b>.<br><br>
+Now, I work with HTML, CSS, and JavaScript, and use Java to improve how I think and solve problems.
 
-I don’t just follow steps — I experiment, fail, debug, and understand deeply.<br><br>
+I don’t just follow tutorials — I like to try things on my own, make mistakes, debug them, and actually understand what’s going on.
 
-Currently exploring <b>software engineering, databases, and AI/ML fundamentals</b> to grow beyond basics.<br><br>
+Right now, I’m exploring Artificial Intelligence, Machine Learning, and databases to go beyond just the basics.
 
-I focus on creating projects that are <b>useful, practical, and real</b> — not just visually good.<br><br>
+I try to build projects that are useful and practical, not just something that looks good.
 
-If you value consistency, curiosity, and real growth — we’ll connect well 🤝
+If you value consistency, curiosity, and real growth, we’ll get along well 🤝
 
 </p>
 
