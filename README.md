@@ -2,96 +2,225 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Anik+Das;Building.+Breaking.+Learning.;Repeating." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Anik+Das;AI%2FML+Developer;Full-Stack+Web+Developer;Building.+Breaking.+Learning.;Turning+Ideas+Into+Projects." alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%2FML%20Developer-7c3aed?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Developer-06b6d4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-10b981?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Silchar%2C%20Assam%20%F0%9F%87%AE%F0%9F%87%B3-f59e0b?style=for-the-badge"/>
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+
+## 👋 About Me
+
+```text
+AI/ML Developer
+│
+├── Building AI-powered applications
+├── Developing full-stack web applications
+├── Working with Python, JavaScript & Java
+├── Exploring Machine Learning & Deep Learning
+├── Working with APIs, databases & backend systems
+└── Learning by building real projects
+```
+
+I'm an **AI/ML Developer and Full-Stack Web Developer** who enjoys turning ideas into practical software.
+
+I started with web development and gradually moved toward **Artificial Intelligence and Machine Learning**. Today, I work across both areas — building web applications, backend systems, and AI-powered projects.
+
+My current focus is on:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Deep Learning and model development
+* 🐍 Python-based AI/ML development
+* 🌐 React.js & modern web development
+* ⚙️ Node.js, APIs & backend development
+* 🗄️ SQL and NoSQL databases
+* 🔧 Building practical, end-to-end projects
+
+I prefer learning by building rather than only following tutorials.
+
+```text
+Learn → Build → Break → Debug → Understand → Improve
+```
+
+---
+
+## 🚀 What I Do
+
+<div align="center">
+
+|    🤖 AI / ML    |  🌐 Web Development  | ⚙️ Backend |
+| :--------------: | :------------------: | :--------: |
+| Machine Learning |       React.js       |   Node.js  |
+|   Deep Learning  |      JavaScript      |  REST APIs |
+|      Python      |      HTML / CSS      |   FastAPI  |
+|    TensorFlow    |     Responsive UI    |    Flask   |
+|      PyTorch     | Frontend Integration |   Django   |
+|   Scikit-learn   |    Full-Stack Apps   |  Databases |
+
+</div>
+
+---
+
+## 🧠 Current Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-A78BFA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8b5cf6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-06b6d4?style=for-the-badge"/>
+
+</div>
+
+I'm currently focusing on building **AI/ML projects that solve practical problems**, while strengthening my full-stack development skills so I can take a project from idea to deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square\&logo=bootstrap\&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+
+### ☁️ Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square\&logo=netlify\&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square\&logo=npm\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square\&logo=canva\&logoColor=white)
+
+---
+
+## 💡 Projects
+
+I build projects that combine **AI/ML, web development and real-world use cases**.
+
+Some areas I work on:
+
+* 🤖 AI-powered applications
+* 🧠 Machine Learning systems
+* 🌐 Full-stack web applications
+* 🎙️ AI assistants and automation
+* 📊 Data-driven applications
+* 🔌 API-based systems
+
+> I don't build projects just to fill a GitHub profile.
+> I build them to understand how things actually work.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anik00223&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik00223&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-10b981?style=flat-square)
-&nbsp;
-![Location](https://img.shields.io/badge/📍-Silchar%2C%20Assam%20🇮🇳-06b6d4?style=flat-square)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Anik00223&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px"/>
-
-### 🌱 About Me
-
-```
-while (alive) { learn(); build(); repeat(); }
-```
-
-<p align="center">
-
-  I started by building simple web pages, but soon I got curious about what really happens behind the scenes.
-
-Now, I work with HTML, CSS, and JavaScript, and use Java to improve how I think and solve problems.
-
-I don’t just follow tutorials — I like to try things on my own, make mistakes, debug them, and actually understand what’s going on.
-
-Right now, I’m exploring Artificial Intelligence, Machine Learning, and databases to go beyond just the basics.
-
-I try to build projects that are useful and practical, not just something that looks good.
-
-If you value consistency, curiosity, and real growth, we’ll get along well 🤝
-
-</p>
-
----
-
-### ⚡ Tech Focus
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://img.shields.io/badge/Problem%20Solving-06b6d4?style=for-the-badge&logoColor=white" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Learning%20AI%2FML-f59e0b?style=for-the-badge&logoColor=white" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Web%20Development-7c3aed?style=for-the-badge&logoColor=white" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anik00223&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+
 </div>
 
 ---
 
-### 📈 Mindset
+## 🌐 Connect With Me
 
-| Discipline | Consistency | Learning |
-|:---:|:---:|:---:|
-| over Motivation | over Intensity | over Showing |
+<div align="center">
 
-> *I don't want to look good on paper. I want to **actually know things**.*
-> *Every project I build is a question: do I really understand this?*
+<a href="https://www.linkedin.com/in/anik-das-893080395">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/autarch.noir">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ **Still learning. Still building. Still improving.**
+### 🚀 Build. Learn. Improve.
+
+**AI/ML Developer • Full-Stack Developer • Problem Solver**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Still+learning.;Still+building.;Still+improving." alt="Typing SVG"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" width="100%"/>
 
 </div>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18R5FER69x/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/autarch.noir?igsh=b2tuaGtzOGEwNzBy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anik-das-893080395?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anik00223&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anik00223&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anik00223&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anik00223&theme=aura&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=Anik00223&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
