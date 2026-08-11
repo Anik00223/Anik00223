@@ -64,8 +64,8 @@ Learn → Build → Break → Debug → Understand → Improve
 |   Deep Learning  |      JavaScript      |  REST APIs |
 |      Python      |      HTML / CSS      |   FastAPI  |
 |    TensorFlow    |     Responsive UI    |    Flask   |
-|      PyTorch     | Frontend Integration |   Django   |
-|   Scikit-learn   |    Full-Stack Apps   |  Databases |
+|      PyTorch     |    Full-Stack Apps   |   Django   |
+|   Scikit-learn   | Frontend Integration |  Databases |
 
 </div>
 
@@ -75,15 +75,15 @@ Learn → Build → Break → Debug → Understand → Improve
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-A78BFA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8b5cf6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-A78BFA?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8b5cf6?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack%20Development-06b6d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-06b6d4?style=for-the-badge&logoColor=white"/>
 
 </div>
 
-I'm currently focusing on building **AI/ML projects that solve practical problems**, while strengthening my full-stack development skills so I can take a project from idea to deployment.
+I'm currently focused on building **AI/ML projects that solve practical problems**, while strengthening my full-stack development skills so I can take a project from idea to deployment.
 
 ---
 
@@ -153,7 +153,7 @@ I'm currently focusing on building **AI/ML projects that solve practical problem
 
 ## 💡 Projects
 
-I build projects that combine **AI/ML, web development and real-world use cases**.
+I build projects that combine **AI/ML, web development, automation, and real-world use cases**.
 
 Some areas I work on:
 
@@ -169,27 +169,37 @@ Some areas I work on:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anik00223&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anik00223&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik00223&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik00223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="41%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anik00223&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anik00223&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" width="75%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anik00223&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anik00223&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" width="80%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anik00223&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
