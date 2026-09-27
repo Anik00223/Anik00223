@@ -9,7 +9,6 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/AI%2FML%20Developer-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML Developer" />
-<img src="https://img.shields.io/badge/Full--Stack%20Developer-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer" />
 <img src="https://img.shields.io/badge/Open%20to%20Collaborate-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open to Collaborate" />
 <img src="https://img.shields.io/badge/Silchar%2C%20Assam-F59E0B?style=for-the-badge" alt="Silchar, Assam" />
 
